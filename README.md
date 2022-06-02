@@ -1,7 +1,7 @@
 👋 **Hola, Soy Alejandra Morales Daza**
 
 
-Ingeniera Industrial y Civil,con amplio interés en el área de Analytics, Business Intelligence, procesamiento y manejo de data conocimientos en análisis exploratorio de datos,  modelos estadísticos, construcción de Dashboards para el seguimiento de indicadores que faciliten la toma de decisiones cumpliendo con los objetivos en costos, tiempo, alcance y calidad. 
+Ingeniera Industrial y Civil, con amplio interés en el área de Analytics, Business Intelligence, procesamiento y manejo de data conocimientos en análisis exploratorio de datos,  modelos estadísticos, construcción de Dashboards para el seguimiento de indicadores que faciliten la toma de decisiones cumpliendo con los objetivos en costos, tiempo, alcance y calidad. 
 
 🌱 Data Analyst en formación.
 
