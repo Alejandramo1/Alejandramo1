@@ -8,11 +8,10 @@ Ingeniera Industrial y Civil, con amplio interés en el área de Analytics, Busi
 
 **👀Lenguajes:**
 - SQL
-- Python
  
 **👀Herramientas BI:**
 - Power BI
-- Tableau
+- Looker Studio
   
  **📫Contacto**   
 -  Linkedin: www.linkedin.com/in/amorald
